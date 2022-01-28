@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorkManagerExample</string>
+
+
+    <string-array name="image_urls">
+        <item>https://cdn.pixabay.com/photo/2014/06/03/19/38/board-361516_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2017/05/27/19/21/kingfisher-2349253_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2021/11/15/02/00/mountains-6796152_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2016/07/07/20/59/playmobil-1503190_1280.jpg</item>
+    </string-array>
+
+</resources>
