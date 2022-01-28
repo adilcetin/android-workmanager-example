@@ -15,5 +15,5 @@ dependencies {
 
 
 
-<img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151537_WorkManagerExample.jpg" height="600">  <img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151555_WorkManagerExample.jpg" height="600"> <img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151611_WorkManagerExample.jpg" height="600"> 
+<img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151537_WorkManagerExample.jpg" width="250" height="500">  <img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151555_WorkManagerExample.jpg" width="250" height="500"> <img src="https://github.com/adilcetin/android-workmanager-example/blob/master/Screenshot_20220128-151611_WorkManagerExample.jpg" width="250" height="500"> 
 
